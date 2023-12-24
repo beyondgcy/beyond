@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: GAO Chaoyue 高超越
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Beyond
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chaoyue
+last_name: GAO
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Joint PhD student of HIT and CityU, Research Assistant of HKU
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: HIT&CityU
     url: https://www.example.com/
 
 # Social network links
